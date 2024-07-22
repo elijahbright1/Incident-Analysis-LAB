@@ -47,9 +47,10 @@ Step 2: Write incident report
 
 Step 3: Assess the audit
 
+[The Exemplar Explained - Cybersecurity Incident Report_ Network Traffic Analysis .pdf](https://github.com/user-attachments/files/16327560/The.Exemplar.Explained.-.Cybersecurity.Incident.Report_.Network.Traffic.Analysis.pdf)
 
-[Controls and compliance checklist exemplar.pdf](https://github.com/user-attachments/files/16319101/Controls.and.compliance.checklist.exemplar.pdf)
 
-*Ref 5 Model audit example
+
+*Ref 5 Model incident report example
 
 
