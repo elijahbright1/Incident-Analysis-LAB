@@ -6,12 +6,12 @@ Analyze DNS and ICMP traffic in transit using data from a network protocol analy
 
 ### Skills Learned
 
-- properly read ICMP packets
-- investigate port errors
+- properly read traffic logs
+- investigate port errors and their functions
 - assess security risks on a network and reinforce network security
 
 ### Tools Used
-- TCPDUMP log
+- TCPDUMP
 
 ## Steps
 
