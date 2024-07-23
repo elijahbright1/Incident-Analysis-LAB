@@ -2,7 +2,7 @@
 
 ## Objective
 
-Analyze DNS and ICMP traffic in transit using data from a network protocol analyzer tool. You will identify which network protocol was utilized in assessment of the cybersecurity incident. 
+Analyze various types of network attacks using DNS and ICMP traffic logs in transit using data from a network protocol analyzer tool. You will identify which network protocol was utilized in assessment of the cybersecurity incident. 
 
 ### Skills Learned
 
